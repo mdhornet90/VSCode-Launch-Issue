@@ -1,0 +1,10 @@
+{
+    "name": "vscode_launch_issue",
+    "version": "0.0.1",
+    "dependencies": {
+        "cluster": "^0.7.7"
+    },
+    "scripts": {
+        "debug": "node --nolazy --inspect-brk example.js"
+    }
+}
